@@ -1,0 +1,35 @@
+<r1>
+        <center> Reason to pick Joel’s HVAC : <br> </center>
+    </r1>
+    <a1>
+        <center> <br>Authorized Dealer</center>
+    </a1>
+    <a2>
+        <center><br>Joel’s HVAC is a licensed gas technician and an
+            authorized dealer of Reliance, Summitt...</center>
+    </a2>
+    <e1>
+        <center><br>Experience</center>
+    </e1>
+    <e2>
+        <center><br>Joel has a bachelor’s degree in Engineering Physics from Tianjin University <br>
+            and has been in the HVAC industry since 2015, with an extensive physics background, focused<br>
+            on providing the best in the business care to diagnosis and repair your HVAC systems.</center>
+    </e2>
+    <ex1>
+        <center><br>Excellent Licensed Customer Service</center>
+    </ex1>
+
+    <ex2>
+        <center><br>You can rely on Joel’s expertise to get the job done right the first time!<br><br>
+        </center>
+    </ex2>
+
+    <c1>
+        <center> <br>contact us:<br> Address:63 Tidworth Sq.<br>Telephone (24/7):647-717-6866
+        </center>
+    </c1>
+</body>
+
+
+</html>
